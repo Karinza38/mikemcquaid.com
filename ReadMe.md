@@ -1,4 +1,4 @@
-# mikemcquaid.com
+ # mikemcquaid.com
 
 [mikemcquaid.com](https://mikemcquaid.com) is the home page for a software engineer named Mike McQuaid.
 
